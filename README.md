@@ -15,7 +15,7 @@ i use QWERTY insted of the "superior" DVORAK or others, because i switch compute
 
 -
 
-# Symbol Layer
+## Symbol Layer
 
 The symbol layer is heavily inspired by:
 
