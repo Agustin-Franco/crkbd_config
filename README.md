@@ -5,6 +5,7 @@ My Personal QMK configuration for my crkbd.
 # Layers
 I tried to create the layers in order to reduce finger travel, 
 i use QWERTY insted of the "superior" DVORAK or others, because i switch computers very often 
+The symbol layer is heavily inspired by: https://getreuer.info/posts/keyboards/symbol-layer/index.html
 
 
 
@@ -13,13 +14,10 @@ i use QWERTY insted of the "superior" DVORAK or others, because i switch compute
 
 
 
--
 
-## Symbol Layer
 
-The symbol layer is heavily inspired by:
 
-https://getreuer.info/posts/keyboards/symbol-layer/index.html
+
 
 ---
 
