@@ -24,6 +24,7 @@ https://getreuer.info/posts/keyboards/symbol-layer/index.html
 ---
 
 # OLED
+![68747470733a2f2f696d6775722e636f6d2f5966374436554e2e676966](https://github.com/user-attachments/assets/10fbc453-a298-4d61-81d5-b46e23095460)
 
 The OLED displays runs the HELL0 NAVI GUI. Interface.
 
