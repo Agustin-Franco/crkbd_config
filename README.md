@@ -8,9 +8,9 @@ i use QWERTY insted of the "superior" DVORAK or others, because i switch compute
 
 
 
-
-![img2jpeg](https://github.com/user-attachments/assets/ac19c508-8d5b-4718-9fae-e163b848c41d)
 ![img1](https://github.com/user-attachments/assets/4c6286ed-d721-421f-8bb4-544d15dfe772)
+![img2jpeg](https://github.com/user-attachments/assets/ac19c508-8d5b-4718-9fae-e163b848c41d)
+
 
 
 -
