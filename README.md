@@ -27,9 +27,8 @@ The symbol layer is heavily inspired by: https://getreuer.info/posts/keyboards/s
 
 The OLED displays runs the HELL0 NAVI GUI. Interface.
 
-Credit for the **HELL0 NAVI** goes to:
+Credit for the **HELL0 NAVI**: 4xy0m
 
-4xy0m
 https://github.com/4xy0m/qmk_userspace/tree/main/keyboards/crkbd/keymaps/axyom
 
 ---
