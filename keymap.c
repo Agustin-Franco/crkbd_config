@@ -29,9 +29,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 ),
 
 [1] = LAYOUT_split_3x6_3(   //Number layer
-    KC_TAB,  KC_NO,   KC_VOLD, KC_MUTE, KC_VOLU, KC_NO,                     KC_NO,   KC_MPRV, KC_MSTP, KC_MNXT, KC_NO,   KC_BSPC,
+    KC_TAB,  KC_NO,   KC_MUTE, KC_VOLD, KC_VOLU, KC_NO,                     KC_NO,   KC_MPRV, KC_MPLY, KC_MNXT, KC_NO,   KC_BSPC,
     KC_LCTL, KC_1,    KC_2,    KC_3,    KC_4,    KC_5,                      KC_6,    KC_7,    KC_8,    KC_9,    KC_0,    KC_NO,
-    KC_LSFT, KC_NO,   KC_NO,   KC_NO,   KC_NO,   KC_NO,                     KC_NO,   KC_BRID, KC_NO,   KC_BRIU, KC_NO,   KC_ESC,
+    KC_LSFT, KC_NO,   KC_BRID, KC_NO,   KC_BRIU, KC_NO,                     KC_NO,   KC_NO,   KC_COMM, KC_DOT,  KC_SLSH, KC_ESC,
                                    KC_LGUI, KC_TRNS, KC_ENT,      KC_SPC,  MO(3), KC_RALT
 ),
 
@@ -50,7 +50,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 )
 
 };
-
 // sync transport
 typedef struct _sync_keycode_t {
     uint16_t keycode;
