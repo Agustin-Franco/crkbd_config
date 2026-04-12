@@ -38,7 +38,7 @@ In `config.h`, choose the side before compiling/flashing:
 1. Uncomment `IS_LEFT` and flash the left half.  
 2. Uncomment `IS_RIGHT` and flash the right half.
 
-Done ✅
+Done 
 
 ---
 
