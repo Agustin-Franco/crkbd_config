@@ -1,6 +1,6 @@
 # crkbd_config
 
-My personal QMK configuration for my Corne (crkbd).
+My personal QMK configuration for my Corne keyboard.
 
 ## Setup
 
